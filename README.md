@@ -1,2 +1,7 @@
-# saitama-works-wiki
-saitama-works-wiki
+# 概要
+レポジトリ関連をまとめるためのwiki（実質markdownだけの可能性）
+
+## 日本語関連
+日本語文字列関連(not Unity依存ライブラリ）を纏める
+
+
