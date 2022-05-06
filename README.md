@@ -6,6 +6,7 @@
 
 論理メソッド関連
 https://github.com/saitamasaitama/cs-japanese-logic-master
+
 文字マスタ関連
 https://github.com/saitamasaitama/cs-japanese-string-master
 
